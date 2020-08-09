@@ -1,0 +1,25 @@
+{
+	"name": "validador-dpi-nit",
+	"version": "0.8.0",
+	"description": "Validador de CUI Y NIT para Guatemala",
+	"main": "src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Edwin Tello",
+	"license": "ISC",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/alextello/validador-dpi-nit.git"
+	},
+	"keywords": [
+		"dpi",
+		"nit",
+		"guatemala",
+		"cui"
+	],
+	"bugs": {
+		"url": "https://github.com/alextello/validador-dpi-nit/issues"
+	},
+	"homepage": "https://github.com/alextello/validador-dpi-nit#readme"
+}
