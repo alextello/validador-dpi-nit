@@ -1,6 +1,6 @@
 {
 	"name": "validador-dpi-nit",
-	"version": "0.8.0",
+	"version": "0.9.0",
 	"description": "Validador de CUI Y NIT para Guatemala",
 	"main": "src/index.js",
 	"scripts": {
